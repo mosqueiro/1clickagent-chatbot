@@ -41,11 +41,15 @@ Este é um projeto de chatbot simples desenvolvido com HTML, CSS e JavaScript, q
 
    Para testar o projeto localmente, é recomendável usar um servidor local. Se estiver utilizando o Visual Studio Code, você pode usar a extensão **Live Server**.
 
-5. **Personalize o `data.json`**
+5. **Hospede o Código no Seu Servidor (Opcional)**
+
+   Se preferir, você pode hospedar o código no seu próprio servidor, por exemplo, em um subdomínio como `chat.seudominio.com`. Isso permitirá que o chatbot esteja acessível online e possa ser utilizado por qualquer usuário diretamente pelo navegador.
+
+6. **Personalize o `data.json`**
 
    No arquivo `data.json`, você pode personalizar o conteúdo exibido no chatbot, incluindo o título, subtítulo, sugestões e aviso de isenção de responsabilidade.
 
-6. **Execute o Projeto**
+7. **Execute o Projeto**
 
    Abra o arquivo `index.html` no navegador. O chatbot estará pronto para uso.
 
