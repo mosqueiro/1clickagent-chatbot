@@ -3,14 +3,6 @@
 
 Este é um projeto de chatbot simples desenvolvido com HTML, CSS e JavaScript, que se conecta a uma API usando um `agentID` específico. O projeto permite que o chatbot exiba sugestões e responda a perguntas feitas pelo usuário, interpretando markdown nas respostas e renderizando-o corretamente como HTML.
 
-## Funcionalidades
-
-- **Integração com a API**: Conecta-se a uma API externa usando um `agentID`.
-- **Suporte a Markdown**: Interpreta e renderiza markdown básico como negrito, itálico e links.
-- **Persistência de Conversa**: Salva e restaura o histórico de conversa usando o `localStorage`.
-- **Temas**: Suporte para temas claro e escuro, com capacidade de alternar entre eles.
-- **Respostas com Efeito de Digitação**: As respostas do chatbot são exibidas com um efeito de digitação para melhorar a experiência do usuário.
-
 ## Como Usar
 
 1. **Clone o Repositório**
