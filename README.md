@@ -21,9 +21,11 @@ Este é um projeto de chatbot simples desenvolvido com HTML, CSS e JavaScript, q
    git clone https://github.com/mosqueiro/1clickagent-chatbot
    ```
 
+   Ou faça download do código diretamente : [Download](https://github.com/mosqueiro/1clickagent-chatbot/archive/refs/heads/main.zip)
+
 2. **Obtenha o `agentID`**
 
-   Acesse [1Click Agent](http://1clickagent.ai/) e obtenha o `agentID` específico para o seu chatbot. Este `agentID` é necessário para que o chatbot se conecte à API correta.
+   Acesse [1Click Agent](http://1clickagent.ai) e obtenha o `agentID` específico para o seu chatbot. Este `agentID` é necessário para que o chatbot se conecte à API correta.
 
 3. **Atualize o `agentID` no HTML**
 
