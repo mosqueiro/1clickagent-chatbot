@@ -18,7 +18,7 @@ Este é um projeto de chatbot simples desenvolvido com HTML, CSS e JavaScript, q
    Primeiro, clone o repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/mosqueiro/1clickagent-chatbot
    ```
 
 2. **Obtenha o `agentID`**
