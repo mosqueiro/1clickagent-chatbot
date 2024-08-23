@@ -27,7 +27,9 @@ Este é um projeto de chatbot desenvolvido com HTML, CSS e JavaScript, que se co
    <div class="chat-list" data-agent-id="f40715ce-963b-4ddd-b599-2bf234bb63c4"></div>
    ```
 
-   Substitua o `agentID` (`f40715ce-963b-4ddd-b599-2bf234bb63c4`) pelo `agentID` que você obteve da plataforma. Certifique-se de que o `agentID` seja válido para que o chatbot funcione corretamente.
+   Substitua o `agentID` (`f40715ce-963b-4ddd-b599-2bf234bb63c4`) pelo `agentID` que você obteve da plataforma. Certifique-se de que o `agentID` seja válido para que o chatbot funcione corretamente. (não é necessário conectar no WhatsApp para que seu chatbot funcione)
+
+   ![agentID](https://i.imgur.com/JzFEbC5.png)
 
 4. **Inicie um Servidor Local (Opcional)**
 
