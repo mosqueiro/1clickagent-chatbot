@@ -19,7 +19,9 @@ Este é um projeto de chatbot desenvolvido com HTML, CSS e JavaScript, que se co
 
    Acesse [1Click Agent](http://1clickagent.ai) e obtenha o `agentID` específico para o seu chatbot. Este `agentID` é necessário para que o chatbot se conecte à API correta.
 
-3. **Atualize o `agentID` no HTML**
+   ![agentID](https://i.imgur.com/JzFEbC5.png)
+
+4. **Atualize o `agentID` no HTML**
 
    No arquivo `index.html`, localize a seguinte linha de código:
 
@@ -29,21 +31,19 @@ Este é um projeto de chatbot desenvolvido com HTML, CSS e JavaScript, que se co
 
    Substitua o `agentID` (`f40715ce-963b-4ddd-b599-2bf234bb63c4`) pelo `agentID` que você obteve da plataforma. Certifique-se de que o `agentID` seja válido para que o chatbot funcione corretamente. (não é necessário conectar no WhatsApp para que seu chatbot funcione)
 
-   ![agentID](https://i.imgur.com/JzFEbC5.png)
-
-4. **Inicie um Servidor Local (Opcional)**
+5. **Inicie um Servidor Local (Opcional)**
 
    Para testar o projeto localmente, é recomendável usar um servidor local. Se estiver utilizando o Visual Studio Code, você pode usar a extensão **Live Server**.
 
-5. **Hospede o Código no Seu Servidor (Opcional)**
+6. **Hospede o Código no Seu Servidor (Opcional)**
 
    Se preferir, você pode hospedar o código no seu próprio servidor, por exemplo, em um subdomínio como `chat.seudominio.com`. Isso permitirá que o chatbot esteja acessível online e possa ser utilizado por qualquer usuário diretamente pelo navegador.
 
-6. **Personalize o `data.json`**
+7. **Personalize o `data.json`**
 
    No arquivo `data.json`, você pode personalizar o conteúdo exibido no chatbot, incluindo o título, subtítulo, sugestões e aviso de isenção de responsabilidade.
 
-7. **Execute o Projeto**
+8. **Execute o Projeto**
 
    Abra o arquivo `index.html` no navegador. O chatbot estará pronto para uso.
 
