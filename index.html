@@ -1,1 +1,56 @@
 
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chatbot | Assistente iFood</title> <!-- Este título será atualizado via JSON -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0" />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <h1 class="title">Olá, tudo bem?</h1> <!-- Este título será atualizado via JSON -->
+    <p class="subtitle">Como posso ajudar hoje?</p> <!-- Este subtítulo será atualizado via JSON -->
+
+    <ul class="suggestion-list">
+      <li class="suggestion">
+        <h4 class="text">Quais são as melhores opções de restaurantes próximos a mim?</h4>
+        <span class="icon material-symbols-rounded">restaurant</span>
+      </li>
+      <li class="suggestion">
+        <h4 class="text">Como posso usar cupons de desconto no iFood?</h4>
+        <span class="icon material-symbols-rounded">local_offer</span>
+      </li>
+      <li class="suggestion">
+        <h4 class="text">Qual é o tempo estimado de entrega do meu pedido?</h4>
+        <span class="icon material-symbols-rounded">timer</span>
+      </li>
+      <li class="suggestion">
+        <h4 class="text">Como posso rastrear o meu pedido no iFood?</h4>
+        <span class="icon material-symbols-rounded">map</span>
+      </li>
+    </ul>
+  </header>
+
+  <div class="chat-list" data-agent-id="f40715ce-963b-4ddd-b599-2bf234bb63c4"></div>
+
+  <div class="typing-area">
+    <form action="#" class="typing-form">
+      <div class="input-wrapper">
+        <input type="text" placeholder="Digite uma mensagem aqui" class="typing-input" required />
+        <button id="send-message-button" class="icon material-symbols-rounded">send</button>
+      </div>
+      <div class="action-buttons">
+        <span id="theme-toggle-button" class="icon material-symbols-rounded">light_mode</span>
+        <span id="delete-chat-button" class="icon material-symbols-rounded">delete</span>
+      </div>
+    </form>
+    <p class="disclaimer-text">
+        O Assistente iFood pode exibir informações imprecisas, incluindo sobre pessoas, portanto, verifique suas respostas.
+    </p> <!-- Este texto será atualizado via JSON -->
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
