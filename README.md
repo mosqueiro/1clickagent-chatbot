@@ -1,7 +1,7 @@
 
 # Chatbot | 1Click Agent
 
-Este é um projeto de chatbot simples desenvolvido com HTML, CSS e JavaScript, que se conecta a uma API usando um `agentID` específico. O projeto permite que o chatbot exiba sugestões e responda a perguntas feitas pelo usuário, interpretando markdown nas respostas e renderizando-o corretamente como HTML.
+Este é um projeto de chatbot desenvolvido com HTML, CSS e JavaScript, que se conecta a uma API da 1ClickAgent usando um `agentID` específico. O projeto permite que o chatbot exiba sugestões e responda a perguntas feitas pelo usuário, interpretando markdown nas respostas e renderizando-o corretamente como HTML.
 
 ## Como Usar
 
