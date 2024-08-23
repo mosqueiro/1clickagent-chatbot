@@ -45,7 +45,34 @@ Este é um projeto de chatbot desenvolvido com HTML, CSS e JavaScript, que se co
 
    No arquivo `data.json`, você pode personalizar o conteúdo exibido no chatbot, incluindo o título, subtítulo, sugestões e aviso de isenção de responsabilidade.
 
-8. **Execute o Projeto**
+```json
+{
+   "title": "Olá, tudo bem!",
+   "subtitle": "Como posso ajudar hoje?",
+   "pageTitle": "Chatbot | Assistente iFood",
+   "disclaimer": "O Assistente iFood pode exibir informações imprecisas, incluindo sobre pessoas, portanto, verifique suas respostas.",
+   "suggestions": [
+      {
+         "text": "Quais são as melhores opções de restaurantes próximos a mim?",
+         "icon": "restaurant"
+      },
+      {
+         "text": "Como posso usar cupons de desconto no iFood?",
+         "icon": "local_offer"
+      },
+      {
+         "text": "Qual é o tempo estimado de entrega do meu pedido?",
+         "icon": "timer"
+      },
+      {
+         "text": "Como posso rastrear o meu pedido no iFood?",
+         "icon": "map"
+      }
+   ]
+}
+```
+
+9. **Execute o Projeto**
 
    Abra o arquivo `index.html` no navegador. O chatbot estará pronto para uso.
 
