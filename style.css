@@ -183,6 +183,7 @@ body.hide-header .header {
   }
 }
 
+
 .chat-list .message .icon {
   color: var(--text-color);
   cursor: pointer;
