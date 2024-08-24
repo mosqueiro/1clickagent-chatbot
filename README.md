@@ -76,6 +76,10 @@ Este é um projeto de chatbot desenvolvido com HTML, CSS e JavaScript, que se co
 
    Abra o arquivo `index.html` no navegador. O chatbot estará pronto para uso.
 
+10. **Avatar e HTML**
+
+   Fique a vontade para mudar o design do código `index.html` e personalizar seu chatbot. Para mudar o avatar das conversas basta alterar as imagens que estão na pasta `./images`
+
 ## Dependências
 
 Este projeto não possui dependências externas. Toda a lógica de markdown e exibição está embutida no JavaScript incluído.
